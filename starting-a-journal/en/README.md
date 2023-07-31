@@ -1,5 +1,5 @@
 ---
-title: Short Guide to Starting a New Journal
-description: This guide is for journal editors who are starting a new journal. 
+title: Guia Rápido para Iniciar um Novo Periódico
+description: Este guia é para editores de periódicos que estão iniciando um novo periódico.
 ---
-This short guide to starting a new journal highlights the key considerations and steps for establishing a new academic journal, including details about the journal and its operations, policies, and workflows, and steps for getting set up in OJS. This guide will be useful if you have journal manager access to an OJS site that is installed and configured. For help with installation, upgrading, and system maintenance, please see the [Administrator’s Guide](https://docs.pkp.sfu.ca/admin-guide/).
+Este guia rápido para iniciar um novo periódico destaca as principais considerações e etapas para estabelecer um novo periódico acadêmico, incluindo detalhes sobre o periódico e suas operações, políticas e fluxos de trabalho, e etapas para configuração no OJS (Sistema de Gerenciamento de Periódicos). Este guia será útil se você tiver acesso de gerente de periódico a um site do OJS que esteja instalado e configurado. Para obter ajuda com instalação, atualização e manutenção do sistema, por favor, consulte o [Guia do Administrador](https://docs.pkp.sfu.ca/admin-guide/).
